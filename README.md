@@ -2,5 +2,6 @@
 
 ## "Hello, World"
 
-This is the first application for the Ruby of Rails Tutorial that
-I'm currently undertaking.
+This is the first application for the
+[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
+by [Michael Hartl](http://www.michaelhartl.com/). Hello, world!
